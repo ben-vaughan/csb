@@ -1,0 +1,19 @@
+%noun phrase rules
+np --> det,n
+n -> [Amèlie]
+n -> [Bernard]
+n -> [people]
+n -> [Camille]
+
+v --> [embrassè]
+v --> [vu]
+
+det --> [a]
+det --> [ont]
+det --> [qui]
+
+adj --> [trois]
+
+
+initial(np)
+
